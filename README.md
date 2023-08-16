@@ -17,5 +17,4 @@ This repository contains an interactive dashboard created using Microsoft Excel,
 3. Interact: Navigate through the different sheets and charts to explore the data.
 4. Filter: Use filters and slicers to drill down into specific regions, years, or sales methods.
 5. Visualize: Gain insights from the visual representations of the data.
-
 6. ![adidas_dashboard](https://github.com/suriyaprakash-ravi/Adidas_USA_sales_interactive_dashboard_using_Excel/assets/120380876/3c03779d-bbb7-48b5-93e0-218753ec305d)
